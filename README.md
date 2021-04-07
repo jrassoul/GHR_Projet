@@ -1,14 +1,17 @@
 # GHR_Projet
 Global Human Resources
 
+# Introduction
+Dans le cadre du projet d’intégration du semestre 6, nous avons développé une application qui permet de gérer les informations de paie des ressources humaines d’une grande entreprise mondiale qui a des installations dans différents pays. Nous avons donc quatre sous-entreprises, chacune est gérée par un SGBD spécifique notamment MYSQL, PostgreSQL ainsi que deux fichiers textuels et un fichier CSV. Chaque source de données possède un schéma fixe et ses dernières contiennent des informations du même genre.
 Réalisation du projet par: 
 
-Lydia Ait Abdelkader
-Amal Rouas 
-Sabrina REBIB
+# Réalisé par : 
+Lydia Ait Abdelkader,
+Amal Rouas,
+Sabrina REBIB,
 RASSOUL Juba
 
-Important: 
+# Important: 
 
 - La fonction principale du projet est dans le package statistiques-> Classe: PageAccuil
 - Importer les librairies du dossier lib dans le projet  
