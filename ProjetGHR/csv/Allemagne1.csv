@@ -1,0 +1,5 @@
+Id_employe,Nom,Prenom,Date_naiss,Adresse,Status,Natinalite,entreprise_travaille,date_debut_travaille,salaire,nb_absence_mois,licencement,type_contrat
+01,Rouas,Amal,07/06/1998,Vincennes france,cadre,Francaise,Allotools,07/06/2019,2400,5,non,temps_pleine
+02,Rebib,Sabrina,08/06/1998,Massy france,ingenieur,Allemagne,Allotools,02/10/2000,2000,5,non,temps_partiel
+03,Rassoul,JUba,30/04/1960,Cergy france,data scientist,Cannadienne,Allotools,30/06/1980,2300,2,oui,temps_partiel
+04,Ait-Abdelkader,Lydia,07/06/1998,Massy france,cadre,Russe,Allotools,07/06/2018,2500,4,non,temps_pleine

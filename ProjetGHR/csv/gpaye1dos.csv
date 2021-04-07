@@ -1,0 +1,7 @@
+nom_employe ;prenom_employe;nom_emploie;date_naiss_employe;nationalite_employe;mail;telephone;Id_contrat;status;date_debut;contrat_heure_travail;salaire_par_heure;salaire;montant_avantage;annee_validite_avantage;type_pret;date_pret;montant_pret;duree_pret;nb_absences_sans_just;motif_absence;montant prêt rembourse par l'employé;;nb avantage employe;type_avantage
+Rassoul;juba;developpeur ;24/02/1996;chine;jubarassoul@gmail.com;0751xxxxxx;5822;cadre;04/01/2015;tempsPlein;14;2900;2300;;voiture;24/02/2018;10000;5;4;sans;5000;300;3;primes
+AitAbdelKader;Lydia;dev full stack;22/01/1938;Chine;lydia@gmail.com;0676xxxxxx;9898;cadre;13/03/1950;tempsPlein;14;3988;400;;;;2500;;6;sans;7000;2000;2;voiture,primes
+Rouas;Amal;dev python;01/08/2001;Chine;Rouas@gmail.com;0634xxxxxx;2345;cadre;08/07/2020;tempsPlein;14;2399;50;;soin;22/06/2017;3000;5;4;maladie;3000;2500;1;ticketResto
+REBIB;Sabrina ;Dev java;14/03/1985;Chine;sabrina@gmail.com;0655xxxxxx;3421;employe ;12/12/2019;tempsPartiel;14;2339;1300;;imobillier;15/03/2019;1000;5;8;sans;600;100;1;ticketResto
+Scarlette ;Johnsonne;Dev python;12/03/2019;americaine;scarlette@gmail.com;0677xxxxxx;9876;employe ;12/12/1978;tempsPartiel;14;2400;900;;;;2400;;6;maladie;650;350;2;ticketResto,prime
+will;jonny;dev java;12/02/2001;americaine;jonny@gmail.com;0623xxxxxx;2342;cadre;01/02/2019;tempsPlein;14;2339;2000;;imobillier;15/03/2019;1000;4;1;sans;600;200;1;voiture,primes

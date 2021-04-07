@@ -1,0 +1,6 @@
+Id_employe;Type_pret;date_du_pret;montant_regle;montat_du_pret;type_avantage;montant_avantage;nb_avantage
+01;voiture;01/10/2017;1000 euros;8000 euros;primes;3000;3
+04;maison;06/12/2015;7000 euros;211000 euros;ticketsresto;450;2
+02;voiture;01/10/2017;1000 euros;8000 euros;primes;1500;1
+05;voiture;01/10/2017;1000 euros;8000 euros;primes;3000;3
+03;maison;06/12/2015;7000 euros;211000 euros;ticketsresto;450;2
